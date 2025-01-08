@@ -182,7 +182,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: message
-          label: Messgae
+          label: Message
           hideLabel: true
           placeholder: Address
           isRequired: true

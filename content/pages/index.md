@@ -117,7 +117,15 @@ sections:
     variant: variant-d
     subtitle: Publications
     showFeaturedImage: false
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://www.inderscience.com/offers.php?id=143530'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md

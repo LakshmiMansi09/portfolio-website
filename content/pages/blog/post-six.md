@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: ''
+title: >-
+  A Comparative Analysis of Web 3.0, Web 2.0, and Web 1.0: Evolution and
+  Implications
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json

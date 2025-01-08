@@ -52,7 +52,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Resume
         altText: ''
         url: >-
           https://drive.google.com/file/d/1VQMcHHHeQcmQaEUmoo_6rEnmrqSKr-Bz/view?usp=sharing

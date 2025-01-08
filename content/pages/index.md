@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hello!
+    title: Hello! I'm Lakshmi Mansi
     subtitle: I am LAKSHMI MANSI
     styles:
       self:

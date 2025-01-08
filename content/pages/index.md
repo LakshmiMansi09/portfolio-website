@@ -174,13 +174,6 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
@@ -188,6 +181,13 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: 1/2
+          type: EmailFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:

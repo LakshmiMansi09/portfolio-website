@@ -48,7 +48,7 @@ sections:
       - type: Button
         label: Get in touch
         altText: ''
-        url: clakshmimansi@gmail.com
+        url: 'mailto:clakshmimansi@gmail.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right

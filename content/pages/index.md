@@ -61,6 +61,8 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    text: |
+      I am a proficient in Python, JavaScript and SQL
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

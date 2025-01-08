@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HELLO! '
-    subtitle: This is Lakshmi Mansi.
+    subtitle: I am Lakshmi Mansi.
     styles:
       self:
         height: auto

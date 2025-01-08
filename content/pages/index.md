@@ -182,7 +182,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Address
+          placeholder: Message
           isRequired: true
           width: 1/2
           type: TextFormControl

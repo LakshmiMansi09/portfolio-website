@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: Get in touch
         altText: ''
         url: clakshmimansi@gmail.com
         showIcon: false

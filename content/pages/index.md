@@ -62,8 +62,11 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    text: |
-      I am a proficient in Python, JavaScript and SQL
+    text: >+
+      <div style="text-align: left">I use *Python* to build Machine Learning
+      models, *SQL* to manage database and *JavaScript* for Front End
+      Development.</div>
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

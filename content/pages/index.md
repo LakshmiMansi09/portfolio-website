@@ -54,6 +54,16 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1VQMcHHHeQcmQaEUmoo_6rEnmrqSKr-Bz/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

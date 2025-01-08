@@ -119,7 +119,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: Learn more
+        label: Link
         altText: ''
         url: 'https://www.inderscience.com/offers.php?id=143530'
         showIcon: false
